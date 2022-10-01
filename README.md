@@ -10,8 +10,11 @@ The examle could be runned using jupyter but requres some python libraries like:
 ### CW-Nano mod for sucessfully glitching the target
 (Card has FDN337N and R12 = 20 Ohm ) - Adding a 5.6 Ohm resistor and opening Sj6 to grenerate aprox 600mV bias
 ![alt text](https://github.com/rlangoy/cw_nano_glitch_sim/raw/main/images/mod_glitch.png)
+
 #### Mesured result:
 ![alt text](https://github.com/rlangoy/cw_nano_glitch_sim/raw/main/images/mod_glitch_scope.png)
+
+#### Glitching results from [Voltage%20Glitching%20CWNano%20Mod.ipynb](https://github.com/rlangoy/cwr_nano_vdd_glitching/blob/main/jupyter/Voltage%20Glitching%20CWNano%20Mod.ipynb):
 
 
 ## Running the example:
