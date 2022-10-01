@@ -8,7 +8,7 @@ Please check [https://github.com/newaetech](https://github.com/newaetech) for ut
 The examle could be runned using jupyter but requres some python libraries like: chipwhisperer , matplotlib ...
 
 ### CW-Nano mod for sucessfully glitching the target
-(Card has FDN337N and R12 = 20 Ohm ) - Adding a 5.6 Ohm resistor and opening Sj6 to grenerate aprox 600mV bias
+(My CW-Nano has FDN337N-Transistor and R12 = 20 Ohm ) - Adding a 5.6 Ohm resistor and opening Sj6 to grenerate aprox 600mV bias
 ![alt text](https://github.com/rlangoy/cw_nano_glitch_sim/raw/main/images/mod_glitch.png)
 
 #### Mesured result:
