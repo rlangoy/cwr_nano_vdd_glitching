@@ -7,6 +7,13 @@ Please check [https://github.com/newaetech](https://github.com/newaetech) for ut
 [original src:](https://github.com/newaetech/achipwhisperer-jupyter/blob/c940073159c8032877e9f7b9ef852b3662c4ec02/courses/fault101/SOLN_Fault%202_2B%20-%20Voltage%20Glitching%20with%20CWNano%20to%20Bypass%20Password.ipynb)
 The examle could be runned using jupyter but requres some python libraries like: chipwhisperer , matplotlib ...
 
+### CW-Nano mod for sucessfully glitching the target
+(Card has FDN337N and R12 = 20 Ohm ) - Adding a 5.6 Ohm resistor and opening Sj6 to grenerate aprox 600mV bias
+![alt text](https://github.com/rlangoy/cw_nano_glitch_sim/raw/main/images/mod_glitch.png)
+#### Mesured result:
+![alt text](https://github.com/rlangoy/cw_nano_glitch_sim/raw/main/images/mod_glitch_scope.png)
+
+
 ## Running the example:
 Open the file  jupiter\Voltage Glitching CWNano Mod.ipynb in jupiter 
 
