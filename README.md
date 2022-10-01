@@ -14,7 +14,8 @@ The examle could be runned using jupyter but requres some python libraries like:
 #### Mesured result:
 ![alt text](https://github.com/rlangoy/cw_nano_glitch_sim/raw/main/images/mod_glitch_scope.png)
 
-#### Glitching results from [Voltage%20Glitching%20CWNano%20Mod.ipynb](https://github.com/rlangoy/cwr_nano_vdd_glitching/blob/main/jupyter/Voltage%20Glitching%20CWNano%20Mod.ipynb):
+### Glitching results from [Voltage Glitching CWNano Mod.ipynb](https://github.com/rlangoy/cwr_nano_vdd_glitching/blob/main/jupyter/Voltage%20Glitching%20CWNano%20Mod.ipynb)
+![alt text](https://github.com/rlangoy/cwr_nano_vdd_glitching/blob/main/images/glitch_results.png):
 
 
 ## Running the example:
