@@ -1,10 +1,10 @@
 # Chipwhisper Nano Voltage Glitching 
 
 
-### This is a small mod of the Newaetech tutorial Introduction to Voltage Glitchin for CW-Nano
+### This is a small mod of the Newaetech tutorial Introduction to Voltage Glitchin for CW-Nano [src](https://github.com/newaetech/chipwhisperer-jupyter/blob/c940073159c8032877e9f7b9ef852b3662c4ec02/courses/fault101/SOLN_Fault%202_1B%20-%20Introduction%20to%20Voltage%20Glitching%20with%20CWNano.ipynb)
 The sole intent for this mod is to enable the students at [University of South-eastern Noway](www.usn.no) to be able to run the example on the lab \
 Please check [https://github.com/newaetech](https://github.com/newaetech) for utdates :) \
-[original src:](https://github.com/newaetech/achipwhisperer-jupyter/blob/c940073159c8032877e9f7b9ef852b3662c4ec02/courses/fault101/SOLN_Fault%202_2B%20-%20Voltage%20Glitching%20with%20CWNano%20to%20Bypass%20Password.ipynb)
+ \
 The examle could be runned using jupyter but requres some python libraries like: chipwhisperer , matplotlib ...
 
 ### CW-Nano mod for sucessfully glitching the target
@@ -22,7 +22,8 @@ The examle could be runned using jupyter but requres some python libraries like:
 Open the file  jupiter\Voltage Glitching CWNano Mod.ipynb in jupiter 
 
 
-## Re-Use in Teaching & Academic Environments
+## Licence / Usage  
+### Noitce from  NewAE Technolog,conditions on  Re-Use in Teaching & Academic Environments
 
 These notebooks are distributed under the open-source GPL license (as is the rest of ChipWhisperer). This means you can distribute and modify this material (even for commercial trainings), **provided you maintain references to this repository and the original authors, and also offer your derived material under the same conditions**.
 
