@@ -2,7 +2,7 @@
 
 
 ### This is a small mod of the Newaetech tutorial Introduction to Voltage Glitchin for CW-Nano [src](https://github.com/newaetech/chipwhisperer-jupyter/blob/c940073159c8032877e9f7b9ef852b3662c4ec02/courses/fault101/SOLN_Fault%202_1B%20-%20Introduction%20to%20Voltage%20Glitching%20with%20CWNano.ipynb)
-The sole intent for this mod is to enable the students at [University of South-eastern Noway](www.usn.no) to be able to run the example on the lab \
+The sole intent for this mod is to enable the students at [University of South-eastern Noway](www.usn.no) to be able to run the [Tutorial / Voltage glitching Example](https://github.com/newaetech/chipwhisperer-jupyter/blob/c940073159c8032877e9f7b9ef852b3662c4ec02/courses/fault101/SOLN_Fault%202_1B%20-%20Introduction%20to%20Voltage%20Glitching%20with%20CWNano.ipynb)  \
 Please check [https://github.com/newaetech](https://github.com/newaetech) for utdates :) \
  \
 The examle could be runned using jupyter but requres some python libraries like: chipwhisperer , matplotlib ...
