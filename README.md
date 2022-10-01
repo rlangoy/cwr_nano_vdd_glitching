@@ -1,4 +1,4 @@
-# Chipwhisper Nano Voltage Glitching 
+# Chipwhisperer Nano Voltage Glitching 
 
 
 ### This is a small mod of the NewAE Technology tutorial Introduction to Voltage Glitchin for CW-Nano [src](https://github.com/newaetech/chipwhisperer-jupyter/blob/c940073159c8032877e9f7b9ef852b3662c4ec02/courses/fault101/SOLN_Fault%202_1B%20-%20Introduction%20to%20Voltage%20Glitching%20with%20CWNano.ipynb)
