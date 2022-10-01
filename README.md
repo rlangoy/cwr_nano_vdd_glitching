@@ -9,6 +9,9 @@ The examle could be runned using jupyter but requres some python libraries like:
 
 ### CW-Nano mod for sucessfully glitching the target
 (My CW-Nano bought fall 2022 came width a FDN337N-Transistor and R12 = 20 Ohm ) - Adding a 5.6 Ohm resistor between GLITCH - MEASURE and opening Sj6 to grenerate aprox 600mV bias
+#### Physical CW-Nano Mod
+![alt text](https://github.com/rlangoy/cwr_nano_vdd_glitching/raw/main/images/hw_mod_physical.png)
+#### Simplifyed schematic Mod
 ![alt text](https://github.com/rlangoy/cw_nano_glitch_sim/raw/main/images/mod_glitch.png)
 
 #### Mesured result:
