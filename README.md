@@ -1,13 +1,12 @@
 # Chipwhisper Nano Voltage Glitching 
 
 
-### This is a small mod of the Newaetech tutorial Introduction to Voltage Glitchin for CW-Nano [src](https://github.com/newaetech/chipwhisperer-jupyter/blob/c940073159c8032877e9f7b9ef852b3662c4ec02/courses/fault101/SOLN_Fault%202_1B%20-%20Introduction%20to%20Voltage%20Glitching%20with%20CWNano.ipynb)
-The sole intent for this mod is to enable the students at [University of South-eastern Noway](https://www.usn.no) to be able to run the [Tutorial / Voltage glitching Example](https://github.com/newaetech/chipwhisperer-jupyter/blob/c940073159c8032877e9f7b9ef852b3662c4ec02/courses/fault101/SOLN_Fault%202_1B%20-%20Introduction%20to%20Voltage%20Glitching%20with%20CWNano.ipynb)  \
-Please check [https://github.com/newaetech](https://github.com/newaetech) for utdates :) \
+### This is a small mod of the NewAE Technology tutorial Introduction to Voltage Glitchin for CW-Nano [src](https://github.com/newaetech/chipwhisperer-jupyter/blob/c940073159c8032877e9f7b9ef852b3662c4ec02/courses/fault101/SOLN_Fault%202_1B%20-%20Introduction%20to%20Voltage%20Glitching%20with%20CWNano.ipynb)
+The sole intent for this mod is to enable the students at [University of South-eastern Noway](https://www.usn.no) to be able to run the [Tutorial / Voltage glitching Example](https://github.com/newaetech/chipwhisperer-jupyter/blob/c940073159c8032877e9f7b9ef852b3662c4ec02/courses/fault101/SOLN_Fault%202_1B%20-%20Introduction%20to%20Voltage%20Glitching%20with%20CWNano.ipynb) by [NewAE Technology](https://www.newae.com/) for more information and tutorials see  [https://github.com/newaetech](https://github.com/newaetech) for utdates :) \
  \
 The examle could be runned using jupyter but requres some python libraries like: chipwhisperer , matplotlib ...
 
-### CW-Nano mod for sucessfully glitching the target
+### CW-Nano HW mod for sucessfully voltage glitching using [ChipWhisperer 5.6.1](https://github.com/newaetech/chipwhisperer/releases/tag/5.6.1)
 (My CW-Nano bought fall 2022 came width a FDN337N-Transistor and R12 = 20 Ohm ) - Adding a 5.6 Ohm resistor between GLITCH - MEASURE and opening Sj6 to grenerate aprox 600mV bias
 #### Physical CW-Nano Mod
 ![alt text](https://github.com/rlangoy/cwr_nano_vdd_glitching/raw/main/images/hw_mod_physical.png)
