@@ -1,11 +1,15 @@
 # Chipwhisper Nano Voltage Glitching 
 
-Chipwhisper Nano Voltage Glitching mod
+
 ### This is a small mod of the Newaetech tutorial Introduction to Voltage Glitchin for CW-Nano
 The sole intent for this mod is to enable the students at [University of South-eastern Noway](www.usn.no) to be able to run the example on the lab \
 Please check [https://github.com/newaetech](https://github.com/newaetech) for utdates :) \
 [original src:](https://github.com/newaetech/achipwhisperer-jupyter/blob/c940073159c8032877e9f7b9ef852b3662c4ec02/courses/fault101/SOLN_Fault%202_2B%20-%20Voltage%20Glitching%20with%20CWNano%20to%20Bypass%20Password.ipynb)
 The examle could be runned using jupyter but requres some python libraries like: chipwhisperer , matplotlib ...
+
+## Running the example:
+Open the file  jupiter\Voltage Glitching CWNano Mod.ipynb in jupiter 
+
 
 ## Re-Use in Teaching & Academic Environments
 
