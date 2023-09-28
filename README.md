@@ -23,7 +23,13 @@ The examle could be runned using jupyter but requres some python libraries like:
 ## Running the example:
 Open the file  jupiter\Voltage Glitching CWNano Mod.ipynb in jupiter 
 
+## Running the example on a windows machine with Thonny installed:
+Download and install [Thonny](https://thonny.org/) for all users <br>
+Download an unzip [this github repo](https://github.com/rlangoy/cwr_nano_vdd_glitching/archive/refs/tags/Ver_1_0.zip) <br>
+Install all nessesary packages by running ./jupyter/thonny_jupiter_and_packages_install.bat <br>
+Start jupyter notebook by running ./jupyter/thonny_start_jupiter.bat
 
+ 
 ## Licence / Usage  
 ### Noitce from  NewAE Technolog,conditions on  Re-Use in Teaching & Academic Environments
 
