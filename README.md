@@ -27,7 +27,10 @@ Open the file  jupiter\Voltage Glitching CWNano Mod.ipynb in jupiter
 Download and install [Thonny](https://thonny.org/) for all users <br>
 Download an unzip [this github repo](https://github.com/rlangoy/cwr_nano_vdd_glitching/archive/refs/tags/Ver_1_0.zip) <br>
 Install all nessesary packages by running ./jupyter/thonny_jupiter_and_packages_install.bat <br>
-Start jupyter notebook by running ./jupyter/thonny_start_jupiter.bat
+Start jupyter notebook by running ./jupyter/thonny_start_jupiter.bat <br>
+Open and run the example from  "Voltage Glitching CWNano Mod Th.ipynb" or <br>
+"SOLN_Fault 2_2B - Voltage Glitching with CWNano to Bypass Password.ipynb" :)
+
 
  
 ## Licence / Usage  
