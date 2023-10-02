@@ -3,3 +3,4 @@
 "C:\Program Files (x86)\Thonny\python.exe" -m pip install ipywidgets
 "C:\Program Files (x86)\Thonny\python.exe" -m pip install matplotlib
 "C:\Program Files (x86)\Thonny\python.exe" -m pip install ipympl
+"C:\Program Files (x86)\Thonny\python.exe" -m pip install holoviews
