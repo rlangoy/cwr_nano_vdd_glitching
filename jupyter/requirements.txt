@@ -1,0 +1,5 @@
+notebook>=7.0.0
+chipwhisperer>=5.7.0
+ipywidgets>=8.0.0
+matplotlib>=3.6.3
+ipympl>=0.9.0
