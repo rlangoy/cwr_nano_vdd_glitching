@@ -1,0 +1,31 @@
+# Pinned package set for the ChipWhisperer lab (Thonny's Python 3.14, Windows)
+# Versions taken from a working install - bump deliberately, then re-test.
+#
+# chipwhisperer itself is NOT listed here: the installer adds it with
+# --no-deps because 6.0.0 pins numpy<=1.26.4, which has no wheels for
+# Python >= 3.13 and conflicts with pandas 3.x.
+
+# Numerics / plotting
+numpy==2.5.3
+pandas==3.0.6
+matplotlib==3.11.2
+
+# Jupyter
+notebook==7.6.2
+jupyterlab==4.6.3
+ipywidgets==8.1.9
+ipympl==0.10.0
+
+# GlitchController plotting
+holoviews==1.23.2
+bokeh==3.9.2
+panel==1.9.4
+
+# chipwhisperer 6.0.0 runtime dependencies (everything except numpy)
+configobj==5.0.9
+pyserial==3.5
+libusb1==3.4.0
+ECpy==1.2.5
+fastdtw==0.3.4
+Cython==3.3.0
+tqdm==4.70.1
